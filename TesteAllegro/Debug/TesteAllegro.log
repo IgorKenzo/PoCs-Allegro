@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Senac\2Sem\PI2\PoCs-Allegro\TesteAllegro\main.c(156,26): warning C4087:  'al_flip_display': declared with 'void' parameter list
+  TesteAllegro.vcxproj -> D:\Senac\2Sem\PI2\PoCs-Allegro\Debug\TesteAllegro.exe
